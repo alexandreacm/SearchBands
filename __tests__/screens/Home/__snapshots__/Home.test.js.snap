@@ -1,0 +1,2230 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`tests in Home Screen matches snapshot 1`] = `
+<RCTScrollView
+  showsVerticalScrollIndicator={false}
+>
+  <View>
+    <View>
+      <View>
+        <RCTScrollView
+          ImageComponent={[Function]}
+          ImageComponentStyle={
+            Object {
+              "borderRadius": 10,
+              "marginTop": 10,
+              "width": 340,
+            }
+          }
+          LoaderComponent={[Function]}
+          activeAnimationOptions={null}
+          activeAnimationType="timing"
+          activeSlideAlignment="center"
+          activeSlideOffset={20}
+          apparitionDelay={0}
+          automaticallyAdjustContentInsets={false}
+          autoplay={true}
+          autoplayDelay={1000}
+          autoplayInterval={3000}
+          callbackOffsetMargin={5}
+          circleLoop={true}
+          collapsable={false}
+          containerCustomStyle={Object {}}
+          contentContainerCustomStyle={Object {}}
+          contentContainerStyle={
+            Array [
+              Object {
+                "paddingLeft": 0,
+                "paddingRight": 0,
+              },
+              Object {},
+            ]
+          }
+          data={Array []}
+          decelerationRate="fast"
+          directionalLockEnabled={true}
+          dotColor="#FFF"
+          dotStyle={
+            Object {
+              "backgroundColor": "rgba(128, 128, 128, 0.92)",
+              "borderRadius": 5,
+              "height": 10,
+              "margin": 0,
+              "marginHorizontal": 0,
+              "padding": 0,
+              "width": 10,
+            }
+          }
+          enableMomentum={false}
+          enableSnap={true}
+          firstItem={0}
+          forwardedRef={[Function]}
+          getItem={[Function]}
+          getItemCount={[Function]}
+          hasParallaxImages={false}
+          horizontal={true}
+          imageLoadingColor="#FFF"
+          images={[Function]}
+          inactiveDotColor="#90A4AE"
+          inactiveSlideOpacity={0.7}
+          inactiveSlideScale={0.9}
+          inactiveSlideShift={0}
+          initialNumToRender={6}
+          invertStickyHeaders={false}
+          inverted={false}
+          itemWidth={750}
+          keyExtractor={[Function]}
+          layout="default"
+          lockScrollTimeoutDuration={1000}
+          lockScrollWhileSnapping={false}
+          loop={true}
+          loopClonesPerSide={5}
+          maxToRenderPerBatch={13}
+          nativeID="animatedComponent"
+          onContentSizeChange={[Function]}
+          onLayout={[Function]}
+          onMomentumScrollBegin={[Function]}
+          onMomentumScrollEnd={[Function]}
+          onResponderRelease={[Function]}
+          onScroll={[Function]}
+          onScrollBeginDrag={[Function]}
+          onScrollEndDrag={[Function]}
+          onSnapToItem={[Function]}
+          onStartShouldSetResponderCapture={[Function]}
+          onTouchEnd={[Function]}
+          onTouchStart={[Function]}
+          overScrollMode="never"
+          paginationBoxStyle={
+            Object {
+              "alignItems": "center",
+              "alignSelf": "center",
+              "bottom": 0,
+              "justifyContent": "center",
+              "padding": 0,
+              "paddingVertical": 10,
+              "position": "absolute",
+            }
+          }
+          paginationBoxVerticalPadding={10}
+          pinchGestureEnabled={false}
+          removeClippedSubviews={true}
+          renderItem={[Function]}
+          scrollEnabled={true}
+          scrollEventThrottle={1}
+          scrollsToTop={false}
+          shouldOptimizeUpdates={true}
+          showsHorizontalScrollIndicator={false}
+          showsVerticalScrollIndicator={false}
+          slideStyle={Object {}}
+          sliderBoxHeight={150}
+          sliderWidth={750}
+          stickyHeaderIndices={Array []}
+          style={
+            Object {
+              "flexDirection": "row",
+              "opacity": 0,
+              "width": 750,
+            }
+          }
+          swipeThreshold={20}
+          useScrollView={false}
+          vertical={false}
+          viewabilityConfigCallbackPairs={Array []}
+          windowSize={13}
+        >
+          <View />
+        </RCTScrollView>
+      </View>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "backgroundColor": "#F3F3F3",
+            "borderRadius": 0,
+            "flexBasis": 0,
+            "flexDirection": "column",
+            "flexGrow": 1,
+            "flexShrink": 1,
+            "justifyContent": "flex-start",
+            "marginBottom": 0,
+            "marginLeft": 0,
+            "marginRight": 0,
+            "marginTop": 0,
+            "paddingBottom": 0,
+            "paddingLeft": 8,
+            "paddingRight": 8,
+            "paddingTop": 0,
+            "width": "auto",
+          },
+        ]
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "backgroundColor": "#F3F3F3",
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+              "marginTop": 15,
+            },
+          ]
+        }
+      >
+        <RCTScrollView
+          ListEmptyComponent={[Function]}
+          contentContainerStyle={
+            Object {
+              "paddingVertical": undefined,
+            }
+          }
+          data={
+            Array [
+              Object {
+                "id": "5fce349568b91d001293bdc7",
+                "name": "3 Doors Down",
+              },
+              Object {
+                "id": "5fce349568b91d001293bddb",
+                "name": "Anberlin",
+              },
+              Object {
+                "id": "5fce349568b91d001293bddf",
+                "name": "Bon Jovi",
+              },
+              Object {
+                "id": "5fce349568b91d001293bdc9",
+                "name": "Bruce Springsteen",
+              },
+              Object {
+                "id": "5fce349568b91d001293bdd5",
+                "name": "Coma",
+              },
+              Object {
+                "id": "5fce349568b91d001293bdda",
+                "name": "Counting Crows",
+              },
+              Object {
+                "id": "5fce349568b91d001293bddd",
+                "name": "Creed",
+              },
+              Object {
+                "id": "5fce349568b91d001293bdd1",
+                "name": "Daughtry",
+              },
+              Object {
+                "id": "5fce349568b91d001293bdd8",
+                "name": "Evanescence",
+              },
+              Object {
+                "id": "5fce349568b91d001293bdd0",
+                "name": "Goo Goo Dolls",
+              },
+              Object {
+                "id": "5fce349568b91d001293bddc",
+                "name": "Hinder",
+              },
+              Object {
+                "id": "5fce349568b91d001293bdcd",
+                "name": "Hoobastank",
+              },
+              Object {
+                "id": "5fce349568b91d001293bdd2",
+                "name": "Iggy Pop",
+              },
+              Object {
+                "id": "5fce349568b91d001293bdca",
+                "name": "Jet",
+              },
+              Object {
+                "id": "5fce349568b91d001293bde0",
+                "name": "Joy Division",
+              },
+              Object {
+                "id": "5fce349568b91d001293bdd9",
+                "name": "Lenny Kravitz",
+              },
+              Object {
+                "id": "5fce349568b91d001293bde1",
+                "name": "Live",
+              },
+              Object {
+                "id": "5fce349568b91d001293bdc3",
+                "name": "Nickelback",
+              },
+              Object {
+                "id": "5fce349568b91d001293bdc5",
+                "name": "OneRepublic",
+              },
+              Object {
+                "id": "5fce349568b91d001293bdcc",
+                "name": "Pearl Jam",
+              },
+              Object {
+                "id": "5fce349568b91d001293bdde",
+                "name": "Plain White T's",
+              },
+              Object {
+                "id": "5fce349568b91d001293bdd7",
+                "name": "Seether",
+              },
+              Object {
+                "id": "5fce349568b91d001293bdc2",
+                "name": "Tenacious D",
+              },
+              Object {
+                "id": "5fce349568b91d001293bdc8",
+                "name": "The Beatles",
+              },
+              Object {
+                "id": "5fce349568b91d001293bdcb",
+                "name": "The Fray",
+              },
+              Object {
+                "id": "5fce349568b91d001293bdd4",
+                "name": "The Hives",
+              },
+              Object {
+                "id": "5fce349568b91d001293bdc4",
+                "name": "The Pretty Reckless",
+              },
+              Object {
+                "id": "5fce349568b91d001293bdcf",
+                "name": "The Red Jumpsuit Apparatus",
+              },
+              Object {
+                "id": "5fce349568b91d001293bdd3",
+                "name": "The Velvet Underground",
+              },
+              Object {
+                "id": "5fce349568b91d001293bdc6",
+                "name": "Three Days Grace",
+              },
+              Object {
+                "id": "5fce349568b91d001293bdd6",
+                "name": "Tom Petty and The Heartbreakers",
+              },
+              Object {
+                "id": "5fce349568b91d001293bdce",
+                "name": "U2",
+              },
+            ]
+          }
+          getItem={[Function]}
+          getItemCount={[Function]}
+          keyExtractor={[Function]}
+          onContentSizeChange={[Function]}
+          onLayout={[Function]}
+          onMomentumScrollBegin={[Function]}
+          onMomentumScrollEnd={[Function]}
+          onScroll={[Function]}
+          onScrollBeginDrag={[Function]}
+          onScrollEndDrag={[Function]}
+          removeClippedSubviews={false}
+          renderItem={[Function]}
+          scrollEventThrottle={50}
+          stickyHeaderIndices={Array []}
+          style={
+            Array [
+              Object {},
+            ]
+          }
+          viewabilityConfigCallbackPairs={Array []}
+        >
+          <View>
+            <View
+              onLayout={[Function]}
+              style={null}
+            >
+              <View
+                style={
+                  Array [
+                    Object {
+                      "backgroundColor": "#FFF",
+                      "borderRadius": 8,
+                      "elevation": 10,
+                      "shadowColor": "rgba(0, 0, 0, 0.15)",
+                      "shadowOffset": Object {
+                        "height": 1,
+                        "width": 0,
+                      },
+                      "shadowOpacity": 1,
+                      "shadowRadius": 25,
+                    },
+                    Object {
+                      "alignItems": "center",
+                      "justifyContent": "center",
+                      "marginBottom": 16,
+                      "paddingBottom": 10,
+                      "paddingLeft": 10,
+                      "paddingRight": 10,
+                      "paddingTop": 10,
+                    },
+                  ]
+                }
+              >
+                <View
+                  style={
+                    Array [
+                      Object {
+                        "flexDirection": "row",
+                        "justifyContent": "center",
+                      },
+                    ]
+                  }
+                >
+                  <View
+                    style={
+                      Array [
+                        Object {
+                          "flexBasis": 0,
+                          "flexGrow": 1,
+                          "flexShrink": 1,
+                          "justifyContent": "flex-start",
+                        },
+                      ]
+                    }
+                  >
+                    <View
+                      style={
+                        Array [
+                          Object {
+                            "alignItems": "center",
+                            "flexDirection": "row",
+                            "justifyContent": "flex-start",
+                            "marginBottom": 0,
+                            "marginTop": 0,
+                          },
+                        ]
+                      }
+                    >
+                      <View
+                        style={
+                          Array [
+                            Object {
+                              "alignItems": "center",
+                              "flexDirection": "row",
+                              "justifyContent": "flex-start",
+                              "width": "50%",
+                            },
+                          ]
+                        }
+                      >
+                        <Text
+                          numberOfLines={1}
+                          style={
+                            Array [
+                              Object {
+                                "color": "#d13d0f",
+                                "fontFamily": "Poppins",
+                                "fontSize": 16,
+                                "fontStyle": "normal",
+                                "fontWeight": "bold",
+                                "lineHeight": 24,
+                                "width": 170,
+                              },
+                            ]
+                          }
+                          testID="Title"
+                        >
+                          3 Doors Down
+                        </Text>
+                      </View>
+                    </View>
+                  </View>
+                </View>
+                <View
+                  accessible={true}
+                  collapsable={false}
+                  focusable={true}
+                  nativeID="animatedComponent"
+                  onClick={[Function]}
+                  onResponderGrant={[Function]}
+                  onResponderMove={[Function]}
+                  onResponderRelease={[Function]}
+                  onResponderTerminate={[Function]}
+                  onResponderTerminationRequest={[Function]}
+                  onStartShouldSetResponder={[Function]}
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "backgroundColor": "#8d02c0",
+                      "borderRadius": 10,
+                      "height": 40,
+                      "justifyContent": "center",
+                      "marginTop": 15,
+                      "opacity": 1,
+                      "width": "100%",
+                    }
+                  }
+                >
+                  <View
+                    hidden={false}
+                    style={
+                      Array [
+                        Object {
+                          "backgroundColor": "transparent",
+                          "borderRadius": 0,
+                        },
+                      ]
+                    }
+                  >
+                    <Text
+                      color="#FFF"
+                      fontSize={16}
+                      fontWeight="normal"
+                      hidden={false}
+                      lineHeight={28}
+                      marginBottom={0}
+                      marginLeft={0}
+                      marginRight={0}
+                      marginTop={0}
+                      numberOfLines={null}
+                      paddingBottom={0}
+                      paddingLeft={0}
+                      paddingRight={0}
+                      paddingTop={0}
+                      style={
+                        Array [
+                          Object {
+                            "color": "#FFF",
+                            "fontFamily": "Poppins-Medium",
+                            "fontSize": 16,
+                            "fontWeight": "normal",
+                            "lineHeight": 28,
+                            "marginBottom": 0,
+                            "marginLeft": 0,
+                            "marginRight": 0,
+                            "marginTop": 0,
+                            "paddingBottom": 0,
+                            "paddingLeft": 0,
+                            "paddingRight": 0,
+                            "paddingTop": 0,
+                            "textAlign": "left",
+                            "textDecorationColor": "black",
+                            "textDecorationLine": "none",
+                            "textDecorationStyle": "solid",
+                            "textTransform": "none",
+                            "width": "auto",
+                          },
+                        ]
+                      }
+                      textAlign="left"
+                      textDecoration="none"
+                      textTransform="none"
+                      width="auto"
+                    >
+                      Details of band
+                    </Text>
+                  </View>
+                </View>
+              </View>
+            </View>
+            <View
+              onLayout={[Function]}
+              style={null}
+            >
+              <View
+                style={
+                  Array [
+                    Object {
+                      "backgroundColor": "#FFF",
+                      "borderRadius": 8,
+                      "elevation": 10,
+                      "shadowColor": "rgba(0, 0, 0, 0.15)",
+                      "shadowOffset": Object {
+                        "height": 1,
+                        "width": 0,
+                      },
+                      "shadowOpacity": 1,
+                      "shadowRadius": 25,
+                    },
+                    Object {
+                      "alignItems": "center",
+                      "justifyContent": "center",
+                      "marginBottom": 16,
+                      "paddingBottom": 10,
+                      "paddingLeft": 10,
+                      "paddingRight": 10,
+                      "paddingTop": 10,
+                    },
+                  ]
+                }
+              >
+                <View
+                  style={
+                    Array [
+                      Object {
+                        "flexDirection": "row",
+                        "justifyContent": "center",
+                      },
+                    ]
+                  }
+                >
+                  <View
+                    style={
+                      Array [
+                        Object {
+                          "flexBasis": 0,
+                          "flexGrow": 1,
+                          "flexShrink": 1,
+                          "justifyContent": "flex-start",
+                        },
+                      ]
+                    }
+                  >
+                    <View
+                      style={
+                        Array [
+                          Object {
+                            "alignItems": "center",
+                            "flexDirection": "row",
+                            "justifyContent": "flex-start",
+                            "marginBottom": 0,
+                            "marginTop": 0,
+                          },
+                        ]
+                      }
+                    >
+                      <View
+                        style={
+                          Array [
+                            Object {
+                              "alignItems": "center",
+                              "flexDirection": "row",
+                              "justifyContent": "flex-start",
+                              "width": "50%",
+                            },
+                          ]
+                        }
+                      >
+                        <Text
+                          numberOfLines={1}
+                          style={
+                            Array [
+                              Object {
+                                "color": "#d13d0f",
+                                "fontFamily": "Poppins",
+                                "fontSize": 16,
+                                "fontStyle": "normal",
+                                "fontWeight": "bold",
+                                "lineHeight": 24,
+                                "width": 170,
+                              },
+                            ]
+                          }
+                          testID="Title"
+                        >
+                          Anberlin
+                        </Text>
+                      </View>
+                    </View>
+                  </View>
+                </View>
+                <View
+                  accessible={true}
+                  collapsable={false}
+                  focusable={true}
+                  nativeID="animatedComponent"
+                  onClick={[Function]}
+                  onResponderGrant={[Function]}
+                  onResponderMove={[Function]}
+                  onResponderRelease={[Function]}
+                  onResponderTerminate={[Function]}
+                  onResponderTerminationRequest={[Function]}
+                  onStartShouldSetResponder={[Function]}
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "backgroundColor": "#8d02c0",
+                      "borderRadius": 10,
+                      "height": 40,
+                      "justifyContent": "center",
+                      "marginTop": 15,
+                      "opacity": 1,
+                      "width": "100%",
+                    }
+                  }
+                >
+                  <View
+                    hidden={false}
+                    style={
+                      Array [
+                        Object {
+                          "backgroundColor": "transparent",
+                          "borderRadius": 0,
+                        },
+                      ]
+                    }
+                  >
+                    <Text
+                      color="#FFF"
+                      fontSize={16}
+                      fontWeight="normal"
+                      hidden={false}
+                      lineHeight={28}
+                      marginBottom={0}
+                      marginLeft={0}
+                      marginRight={0}
+                      marginTop={0}
+                      numberOfLines={null}
+                      paddingBottom={0}
+                      paddingLeft={0}
+                      paddingRight={0}
+                      paddingTop={0}
+                      style={
+                        Array [
+                          Object {
+                            "color": "#FFF",
+                            "fontFamily": "Poppins-Medium",
+                            "fontSize": 16,
+                            "fontWeight": "normal",
+                            "lineHeight": 28,
+                            "marginBottom": 0,
+                            "marginLeft": 0,
+                            "marginRight": 0,
+                            "marginTop": 0,
+                            "paddingBottom": 0,
+                            "paddingLeft": 0,
+                            "paddingRight": 0,
+                            "paddingTop": 0,
+                            "textAlign": "left",
+                            "textDecorationColor": "black",
+                            "textDecorationLine": "none",
+                            "textDecorationStyle": "solid",
+                            "textTransform": "none",
+                            "width": "auto",
+                          },
+                        ]
+                      }
+                      textAlign="left"
+                      textDecoration="none"
+                      textTransform="none"
+                      width="auto"
+                    >
+                      Details of band
+                    </Text>
+                  </View>
+                </View>
+              </View>
+            </View>
+            <View
+              onLayout={[Function]}
+              style={null}
+            >
+              <View
+                style={
+                  Array [
+                    Object {
+                      "backgroundColor": "#FFF",
+                      "borderRadius": 8,
+                      "elevation": 10,
+                      "shadowColor": "rgba(0, 0, 0, 0.15)",
+                      "shadowOffset": Object {
+                        "height": 1,
+                        "width": 0,
+                      },
+                      "shadowOpacity": 1,
+                      "shadowRadius": 25,
+                    },
+                    Object {
+                      "alignItems": "center",
+                      "justifyContent": "center",
+                      "marginBottom": 16,
+                      "paddingBottom": 10,
+                      "paddingLeft": 10,
+                      "paddingRight": 10,
+                      "paddingTop": 10,
+                    },
+                  ]
+                }
+              >
+                <View
+                  style={
+                    Array [
+                      Object {
+                        "flexDirection": "row",
+                        "justifyContent": "center",
+                      },
+                    ]
+                  }
+                >
+                  <View
+                    style={
+                      Array [
+                        Object {
+                          "flexBasis": 0,
+                          "flexGrow": 1,
+                          "flexShrink": 1,
+                          "justifyContent": "flex-start",
+                        },
+                      ]
+                    }
+                  >
+                    <View
+                      style={
+                        Array [
+                          Object {
+                            "alignItems": "center",
+                            "flexDirection": "row",
+                            "justifyContent": "flex-start",
+                            "marginBottom": 0,
+                            "marginTop": 0,
+                          },
+                        ]
+                      }
+                    >
+                      <View
+                        style={
+                          Array [
+                            Object {
+                              "alignItems": "center",
+                              "flexDirection": "row",
+                              "justifyContent": "flex-start",
+                              "width": "50%",
+                            },
+                          ]
+                        }
+                      >
+                        <Text
+                          numberOfLines={1}
+                          style={
+                            Array [
+                              Object {
+                                "color": "#d13d0f",
+                                "fontFamily": "Poppins",
+                                "fontSize": 16,
+                                "fontStyle": "normal",
+                                "fontWeight": "bold",
+                                "lineHeight": 24,
+                                "width": 170,
+                              },
+                            ]
+                          }
+                          testID="Title"
+                        >
+                          Bon Jovi
+                        </Text>
+                      </View>
+                    </View>
+                  </View>
+                </View>
+                <View
+                  accessible={true}
+                  collapsable={false}
+                  focusable={true}
+                  nativeID="animatedComponent"
+                  onClick={[Function]}
+                  onResponderGrant={[Function]}
+                  onResponderMove={[Function]}
+                  onResponderRelease={[Function]}
+                  onResponderTerminate={[Function]}
+                  onResponderTerminationRequest={[Function]}
+                  onStartShouldSetResponder={[Function]}
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "backgroundColor": "#8d02c0",
+                      "borderRadius": 10,
+                      "height": 40,
+                      "justifyContent": "center",
+                      "marginTop": 15,
+                      "opacity": 1,
+                      "width": "100%",
+                    }
+                  }
+                >
+                  <View
+                    hidden={false}
+                    style={
+                      Array [
+                        Object {
+                          "backgroundColor": "transparent",
+                          "borderRadius": 0,
+                        },
+                      ]
+                    }
+                  >
+                    <Text
+                      color="#FFF"
+                      fontSize={16}
+                      fontWeight="normal"
+                      hidden={false}
+                      lineHeight={28}
+                      marginBottom={0}
+                      marginLeft={0}
+                      marginRight={0}
+                      marginTop={0}
+                      numberOfLines={null}
+                      paddingBottom={0}
+                      paddingLeft={0}
+                      paddingRight={0}
+                      paddingTop={0}
+                      style={
+                        Array [
+                          Object {
+                            "color": "#FFF",
+                            "fontFamily": "Poppins-Medium",
+                            "fontSize": 16,
+                            "fontWeight": "normal",
+                            "lineHeight": 28,
+                            "marginBottom": 0,
+                            "marginLeft": 0,
+                            "marginRight": 0,
+                            "marginTop": 0,
+                            "paddingBottom": 0,
+                            "paddingLeft": 0,
+                            "paddingRight": 0,
+                            "paddingTop": 0,
+                            "textAlign": "left",
+                            "textDecorationColor": "black",
+                            "textDecorationLine": "none",
+                            "textDecorationStyle": "solid",
+                            "textTransform": "none",
+                            "width": "auto",
+                          },
+                        ]
+                      }
+                      textAlign="left"
+                      textDecoration="none"
+                      textTransform="none"
+                      width="auto"
+                    >
+                      Details of band
+                    </Text>
+                  </View>
+                </View>
+              </View>
+            </View>
+            <View
+              onLayout={[Function]}
+              style={null}
+            >
+              <View
+                style={
+                  Array [
+                    Object {
+                      "backgroundColor": "#FFF",
+                      "borderRadius": 8,
+                      "elevation": 10,
+                      "shadowColor": "rgba(0, 0, 0, 0.15)",
+                      "shadowOffset": Object {
+                        "height": 1,
+                        "width": 0,
+                      },
+                      "shadowOpacity": 1,
+                      "shadowRadius": 25,
+                    },
+                    Object {
+                      "alignItems": "center",
+                      "justifyContent": "center",
+                      "marginBottom": 16,
+                      "paddingBottom": 10,
+                      "paddingLeft": 10,
+                      "paddingRight": 10,
+                      "paddingTop": 10,
+                    },
+                  ]
+                }
+              >
+                <View
+                  style={
+                    Array [
+                      Object {
+                        "flexDirection": "row",
+                        "justifyContent": "center",
+                      },
+                    ]
+                  }
+                >
+                  <View
+                    style={
+                      Array [
+                        Object {
+                          "flexBasis": 0,
+                          "flexGrow": 1,
+                          "flexShrink": 1,
+                          "justifyContent": "flex-start",
+                        },
+                      ]
+                    }
+                  >
+                    <View
+                      style={
+                        Array [
+                          Object {
+                            "alignItems": "center",
+                            "flexDirection": "row",
+                            "justifyContent": "flex-start",
+                            "marginBottom": 0,
+                            "marginTop": 0,
+                          },
+                        ]
+                      }
+                    >
+                      <View
+                        style={
+                          Array [
+                            Object {
+                              "alignItems": "center",
+                              "flexDirection": "row",
+                              "justifyContent": "flex-start",
+                              "width": "50%",
+                            },
+                          ]
+                        }
+                      >
+                        <Text
+                          numberOfLines={1}
+                          style={
+                            Array [
+                              Object {
+                                "color": "#d13d0f",
+                                "fontFamily": "Poppins",
+                                "fontSize": 16,
+                                "fontStyle": "normal",
+                                "fontWeight": "bold",
+                                "lineHeight": 24,
+                                "width": 170,
+                              },
+                            ]
+                          }
+                          testID="Title"
+                        >
+                          Bruce Springsteen
+                        </Text>
+                      </View>
+                    </View>
+                  </View>
+                </View>
+                <View
+                  accessible={true}
+                  collapsable={false}
+                  focusable={true}
+                  nativeID="animatedComponent"
+                  onClick={[Function]}
+                  onResponderGrant={[Function]}
+                  onResponderMove={[Function]}
+                  onResponderRelease={[Function]}
+                  onResponderTerminate={[Function]}
+                  onResponderTerminationRequest={[Function]}
+                  onStartShouldSetResponder={[Function]}
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "backgroundColor": "#8d02c0",
+                      "borderRadius": 10,
+                      "height": 40,
+                      "justifyContent": "center",
+                      "marginTop": 15,
+                      "opacity": 1,
+                      "width": "100%",
+                    }
+                  }
+                >
+                  <View
+                    hidden={false}
+                    style={
+                      Array [
+                        Object {
+                          "backgroundColor": "transparent",
+                          "borderRadius": 0,
+                        },
+                      ]
+                    }
+                  >
+                    <Text
+                      color="#FFF"
+                      fontSize={16}
+                      fontWeight="normal"
+                      hidden={false}
+                      lineHeight={28}
+                      marginBottom={0}
+                      marginLeft={0}
+                      marginRight={0}
+                      marginTop={0}
+                      numberOfLines={null}
+                      paddingBottom={0}
+                      paddingLeft={0}
+                      paddingRight={0}
+                      paddingTop={0}
+                      style={
+                        Array [
+                          Object {
+                            "color": "#FFF",
+                            "fontFamily": "Poppins-Medium",
+                            "fontSize": 16,
+                            "fontWeight": "normal",
+                            "lineHeight": 28,
+                            "marginBottom": 0,
+                            "marginLeft": 0,
+                            "marginRight": 0,
+                            "marginTop": 0,
+                            "paddingBottom": 0,
+                            "paddingLeft": 0,
+                            "paddingRight": 0,
+                            "paddingTop": 0,
+                            "textAlign": "left",
+                            "textDecorationColor": "black",
+                            "textDecorationLine": "none",
+                            "textDecorationStyle": "solid",
+                            "textTransform": "none",
+                            "width": "auto",
+                          },
+                        ]
+                      }
+                      textAlign="left"
+                      textDecoration="none"
+                      textTransform="none"
+                      width="auto"
+                    >
+                      Details of band
+                    </Text>
+                  </View>
+                </View>
+              </View>
+            </View>
+            <View
+              onLayout={[Function]}
+              style={null}
+            >
+              <View
+                style={
+                  Array [
+                    Object {
+                      "backgroundColor": "#FFF",
+                      "borderRadius": 8,
+                      "elevation": 10,
+                      "shadowColor": "rgba(0, 0, 0, 0.15)",
+                      "shadowOffset": Object {
+                        "height": 1,
+                        "width": 0,
+                      },
+                      "shadowOpacity": 1,
+                      "shadowRadius": 25,
+                    },
+                    Object {
+                      "alignItems": "center",
+                      "justifyContent": "center",
+                      "marginBottom": 16,
+                      "paddingBottom": 10,
+                      "paddingLeft": 10,
+                      "paddingRight": 10,
+                      "paddingTop": 10,
+                    },
+                  ]
+                }
+              >
+                <View
+                  style={
+                    Array [
+                      Object {
+                        "flexDirection": "row",
+                        "justifyContent": "center",
+                      },
+                    ]
+                  }
+                >
+                  <View
+                    style={
+                      Array [
+                        Object {
+                          "flexBasis": 0,
+                          "flexGrow": 1,
+                          "flexShrink": 1,
+                          "justifyContent": "flex-start",
+                        },
+                      ]
+                    }
+                  >
+                    <View
+                      style={
+                        Array [
+                          Object {
+                            "alignItems": "center",
+                            "flexDirection": "row",
+                            "justifyContent": "flex-start",
+                            "marginBottom": 0,
+                            "marginTop": 0,
+                          },
+                        ]
+                      }
+                    >
+                      <View
+                        style={
+                          Array [
+                            Object {
+                              "alignItems": "center",
+                              "flexDirection": "row",
+                              "justifyContent": "flex-start",
+                              "width": "50%",
+                            },
+                          ]
+                        }
+                      >
+                        <Text
+                          numberOfLines={1}
+                          style={
+                            Array [
+                              Object {
+                                "color": "#d13d0f",
+                                "fontFamily": "Poppins",
+                                "fontSize": 16,
+                                "fontStyle": "normal",
+                                "fontWeight": "bold",
+                                "lineHeight": 24,
+                                "width": 170,
+                              },
+                            ]
+                          }
+                          testID="Title"
+                        >
+                          Coma
+                        </Text>
+                      </View>
+                    </View>
+                  </View>
+                </View>
+                <View
+                  accessible={true}
+                  collapsable={false}
+                  focusable={true}
+                  nativeID="animatedComponent"
+                  onClick={[Function]}
+                  onResponderGrant={[Function]}
+                  onResponderMove={[Function]}
+                  onResponderRelease={[Function]}
+                  onResponderTerminate={[Function]}
+                  onResponderTerminationRequest={[Function]}
+                  onStartShouldSetResponder={[Function]}
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "backgroundColor": "#8d02c0",
+                      "borderRadius": 10,
+                      "height": 40,
+                      "justifyContent": "center",
+                      "marginTop": 15,
+                      "opacity": 1,
+                      "width": "100%",
+                    }
+                  }
+                >
+                  <View
+                    hidden={false}
+                    style={
+                      Array [
+                        Object {
+                          "backgroundColor": "transparent",
+                          "borderRadius": 0,
+                        },
+                      ]
+                    }
+                  >
+                    <Text
+                      color="#FFF"
+                      fontSize={16}
+                      fontWeight="normal"
+                      hidden={false}
+                      lineHeight={28}
+                      marginBottom={0}
+                      marginLeft={0}
+                      marginRight={0}
+                      marginTop={0}
+                      numberOfLines={null}
+                      paddingBottom={0}
+                      paddingLeft={0}
+                      paddingRight={0}
+                      paddingTop={0}
+                      style={
+                        Array [
+                          Object {
+                            "color": "#FFF",
+                            "fontFamily": "Poppins-Medium",
+                            "fontSize": 16,
+                            "fontWeight": "normal",
+                            "lineHeight": 28,
+                            "marginBottom": 0,
+                            "marginLeft": 0,
+                            "marginRight": 0,
+                            "marginTop": 0,
+                            "paddingBottom": 0,
+                            "paddingLeft": 0,
+                            "paddingRight": 0,
+                            "paddingTop": 0,
+                            "textAlign": "left",
+                            "textDecorationColor": "black",
+                            "textDecorationLine": "none",
+                            "textDecorationStyle": "solid",
+                            "textTransform": "none",
+                            "width": "auto",
+                          },
+                        ]
+                      }
+                      textAlign="left"
+                      textDecoration="none"
+                      textTransform="none"
+                      width="auto"
+                    >
+                      Details of band
+                    </Text>
+                  </View>
+                </View>
+              </View>
+            </View>
+            <View
+              onLayout={[Function]}
+              style={null}
+            >
+              <View
+                style={
+                  Array [
+                    Object {
+                      "backgroundColor": "#FFF",
+                      "borderRadius": 8,
+                      "elevation": 10,
+                      "shadowColor": "rgba(0, 0, 0, 0.15)",
+                      "shadowOffset": Object {
+                        "height": 1,
+                        "width": 0,
+                      },
+                      "shadowOpacity": 1,
+                      "shadowRadius": 25,
+                    },
+                    Object {
+                      "alignItems": "center",
+                      "justifyContent": "center",
+                      "marginBottom": 16,
+                      "paddingBottom": 10,
+                      "paddingLeft": 10,
+                      "paddingRight": 10,
+                      "paddingTop": 10,
+                    },
+                  ]
+                }
+              >
+                <View
+                  style={
+                    Array [
+                      Object {
+                        "flexDirection": "row",
+                        "justifyContent": "center",
+                      },
+                    ]
+                  }
+                >
+                  <View
+                    style={
+                      Array [
+                        Object {
+                          "flexBasis": 0,
+                          "flexGrow": 1,
+                          "flexShrink": 1,
+                          "justifyContent": "flex-start",
+                        },
+                      ]
+                    }
+                  >
+                    <View
+                      style={
+                        Array [
+                          Object {
+                            "alignItems": "center",
+                            "flexDirection": "row",
+                            "justifyContent": "flex-start",
+                            "marginBottom": 0,
+                            "marginTop": 0,
+                          },
+                        ]
+                      }
+                    >
+                      <View
+                        style={
+                          Array [
+                            Object {
+                              "alignItems": "center",
+                              "flexDirection": "row",
+                              "justifyContent": "flex-start",
+                              "width": "50%",
+                            },
+                          ]
+                        }
+                      >
+                        <Text
+                          numberOfLines={1}
+                          style={
+                            Array [
+                              Object {
+                                "color": "#d13d0f",
+                                "fontFamily": "Poppins",
+                                "fontSize": 16,
+                                "fontStyle": "normal",
+                                "fontWeight": "bold",
+                                "lineHeight": 24,
+                                "width": 170,
+                              },
+                            ]
+                          }
+                          testID="Title"
+                        >
+                          Counting Crows
+                        </Text>
+                      </View>
+                    </View>
+                  </View>
+                </View>
+                <View
+                  accessible={true}
+                  collapsable={false}
+                  focusable={true}
+                  nativeID="animatedComponent"
+                  onClick={[Function]}
+                  onResponderGrant={[Function]}
+                  onResponderMove={[Function]}
+                  onResponderRelease={[Function]}
+                  onResponderTerminate={[Function]}
+                  onResponderTerminationRequest={[Function]}
+                  onStartShouldSetResponder={[Function]}
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "backgroundColor": "#8d02c0",
+                      "borderRadius": 10,
+                      "height": 40,
+                      "justifyContent": "center",
+                      "marginTop": 15,
+                      "opacity": 1,
+                      "width": "100%",
+                    }
+                  }
+                >
+                  <View
+                    hidden={false}
+                    style={
+                      Array [
+                        Object {
+                          "backgroundColor": "transparent",
+                          "borderRadius": 0,
+                        },
+                      ]
+                    }
+                  >
+                    <Text
+                      color="#FFF"
+                      fontSize={16}
+                      fontWeight="normal"
+                      hidden={false}
+                      lineHeight={28}
+                      marginBottom={0}
+                      marginLeft={0}
+                      marginRight={0}
+                      marginTop={0}
+                      numberOfLines={null}
+                      paddingBottom={0}
+                      paddingLeft={0}
+                      paddingRight={0}
+                      paddingTop={0}
+                      style={
+                        Array [
+                          Object {
+                            "color": "#FFF",
+                            "fontFamily": "Poppins-Medium",
+                            "fontSize": 16,
+                            "fontWeight": "normal",
+                            "lineHeight": 28,
+                            "marginBottom": 0,
+                            "marginLeft": 0,
+                            "marginRight": 0,
+                            "marginTop": 0,
+                            "paddingBottom": 0,
+                            "paddingLeft": 0,
+                            "paddingRight": 0,
+                            "paddingTop": 0,
+                            "textAlign": "left",
+                            "textDecorationColor": "black",
+                            "textDecorationLine": "none",
+                            "textDecorationStyle": "solid",
+                            "textTransform": "none",
+                            "width": "auto",
+                          },
+                        ]
+                      }
+                      textAlign="left"
+                      textDecoration="none"
+                      textTransform="none"
+                      width="auto"
+                    >
+                      Details of band
+                    </Text>
+                  </View>
+                </View>
+              </View>
+            </View>
+            <View
+              onLayout={[Function]}
+              style={null}
+            >
+              <View
+                style={
+                  Array [
+                    Object {
+                      "backgroundColor": "#FFF",
+                      "borderRadius": 8,
+                      "elevation": 10,
+                      "shadowColor": "rgba(0, 0, 0, 0.15)",
+                      "shadowOffset": Object {
+                        "height": 1,
+                        "width": 0,
+                      },
+                      "shadowOpacity": 1,
+                      "shadowRadius": 25,
+                    },
+                    Object {
+                      "alignItems": "center",
+                      "justifyContent": "center",
+                      "marginBottom": 16,
+                      "paddingBottom": 10,
+                      "paddingLeft": 10,
+                      "paddingRight": 10,
+                      "paddingTop": 10,
+                    },
+                  ]
+                }
+              >
+                <View
+                  style={
+                    Array [
+                      Object {
+                        "flexDirection": "row",
+                        "justifyContent": "center",
+                      },
+                    ]
+                  }
+                >
+                  <View
+                    style={
+                      Array [
+                        Object {
+                          "flexBasis": 0,
+                          "flexGrow": 1,
+                          "flexShrink": 1,
+                          "justifyContent": "flex-start",
+                        },
+                      ]
+                    }
+                  >
+                    <View
+                      style={
+                        Array [
+                          Object {
+                            "alignItems": "center",
+                            "flexDirection": "row",
+                            "justifyContent": "flex-start",
+                            "marginBottom": 0,
+                            "marginTop": 0,
+                          },
+                        ]
+                      }
+                    >
+                      <View
+                        style={
+                          Array [
+                            Object {
+                              "alignItems": "center",
+                              "flexDirection": "row",
+                              "justifyContent": "flex-start",
+                              "width": "50%",
+                            },
+                          ]
+                        }
+                      >
+                        <Text
+                          numberOfLines={1}
+                          style={
+                            Array [
+                              Object {
+                                "color": "#d13d0f",
+                                "fontFamily": "Poppins",
+                                "fontSize": 16,
+                                "fontStyle": "normal",
+                                "fontWeight": "bold",
+                                "lineHeight": 24,
+                                "width": 170,
+                              },
+                            ]
+                          }
+                          testID="Title"
+                        >
+                          Creed
+                        </Text>
+                      </View>
+                    </View>
+                  </View>
+                </View>
+                <View
+                  accessible={true}
+                  collapsable={false}
+                  focusable={true}
+                  nativeID="animatedComponent"
+                  onClick={[Function]}
+                  onResponderGrant={[Function]}
+                  onResponderMove={[Function]}
+                  onResponderRelease={[Function]}
+                  onResponderTerminate={[Function]}
+                  onResponderTerminationRequest={[Function]}
+                  onStartShouldSetResponder={[Function]}
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "backgroundColor": "#8d02c0",
+                      "borderRadius": 10,
+                      "height": 40,
+                      "justifyContent": "center",
+                      "marginTop": 15,
+                      "opacity": 1,
+                      "width": "100%",
+                    }
+                  }
+                >
+                  <View
+                    hidden={false}
+                    style={
+                      Array [
+                        Object {
+                          "backgroundColor": "transparent",
+                          "borderRadius": 0,
+                        },
+                      ]
+                    }
+                  >
+                    <Text
+                      color="#FFF"
+                      fontSize={16}
+                      fontWeight="normal"
+                      hidden={false}
+                      lineHeight={28}
+                      marginBottom={0}
+                      marginLeft={0}
+                      marginRight={0}
+                      marginTop={0}
+                      numberOfLines={null}
+                      paddingBottom={0}
+                      paddingLeft={0}
+                      paddingRight={0}
+                      paddingTop={0}
+                      style={
+                        Array [
+                          Object {
+                            "color": "#FFF",
+                            "fontFamily": "Poppins-Medium",
+                            "fontSize": 16,
+                            "fontWeight": "normal",
+                            "lineHeight": 28,
+                            "marginBottom": 0,
+                            "marginLeft": 0,
+                            "marginRight": 0,
+                            "marginTop": 0,
+                            "paddingBottom": 0,
+                            "paddingLeft": 0,
+                            "paddingRight": 0,
+                            "paddingTop": 0,
+                            "textAlign": "left",
+                            "textDecorationColor": "black",
+                            "textDecorationLine": "none",
+                            "textDecorationStyle": "solid",
+                            "textTransform": "none",
+                            "width": "auto",
+                          },
+                        ]
+                      }
+                      textAlign="left"
+                      textDecoration="none"
+                      textTransform="none"
+                      width="auto"
+                    >
+                      Details of band
+                    </Text>
+                  </View>
+                </View>
+              </View>
+            </View>
+            <View
+              onLayout={[Function]}
+              style={null}
+            >
+              <View
+                style={
+                  Array [
+                    Object {
+                      "backgroundColor": "#FFF",
+                      "borderRadius": 8,
+                      "elevation": 10,
+                      "shadowColor": "rgba(0, 0, 0, 0.15)",
+                      "shadowOffset": Object {
+                        "height": 1,
+                        "width": 0,
+                      },
+                      "shadowOpacity": 1,
+                      "shadowRadius": 25,
+                    },
+                    Object {
+                      "alignItems": "center",
+                      "justifyContent": "center",
+                      "marginBottom": 16,
+                      "paddingBottom": 10,
+                      "paddingLeft": 10,
+                      "paddingRight": 10,
+                      "paddingTop": 10,
+                    },
+                  ]
+                }
+              >
+                <View
+                  style={
+                    Array [
+                      Object {
+                        "flexDirection": "row",
+                        "justifyContent": "center",
+                      },
+                    ]
+                  }
+                >
+                  <View
+                    style={
+                      Array [
+                        Object {
+                          "flexBasis": 0,
+                          "flexGrow": 1,
+                          "flexShrink": 1,
+                          "justifyContent": "flex-start",
+                        },
+                      ]
+                    }
+                  >
+                    <View
+                      style={
+                        Array [
+                          Object {
+                            "alignItems": "center",
+                            "flexDirection": "row",
+                            "justifyContent": "flex-start",
+                            "marginBottom": 0,
+                            "marginTop": 0,
+                          },
+                        ]
+                      }
+                    >
+                      <View
+                        style={
+                          Array [
+                            Object {
+                              "alignItems": "center",
+                              "flexDirection": "row",
+                              "justifyContent": "flex-start",
+                              "width": "50%",
+                            },
+                          ]
+                        }
+                      >
+                        <Text
+                          numberOfLines={1}
+                          style={
+                            Array [
+                              Object {
+                                "color": "#d13d0f",
+                                "fontFamily": "Poppins",
+                                "fontSize": 16,
+                                "fontStyle": "normal",
+                                "fontWeight": "bold",
+                                "lineHeight": 24,
+                                "width": 170,
+                              },
+                            ]
+                          }
+                          testID="Title"
+                        >
+                          Daughtry
+                        </Text>
+                      </View>
+                    </View>
+                  </View>
+                </View>
+                <View
+                  accessible={true}
+                  collapsable={false}
+                  focusable={true}
+                  nativeID="animatedComponent"
+                  onClick={[Function]}
+                  onResponderGrant={[Function]}
+                  onResponderMove={[Function]}
+                  onResponderRelease={[Function]}
+                  onResponderTerminate={[Function]}
+                  onResponderTerminationRequest={[Function]}
+                  onStartShouldSetResponder={[Function]}
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "backgroundColor": "#8d02c0",
+                      "borderRadius": 10,
+                      "height": 40,
+                      "justifyContent": "center",
+                      "marginTop": 15,
+                      "opacity": 1,
+                      "width": "100%",
+                    }
+                  }
+                >
+                  <View
+                    hidden={false}
+                    style={
+                      Array [
+                        Object {
+                          "backgroundColor": "transparent",
+                          "borderRadius": 0,
+                        },
+                      ]
+                    }
+                  >
+                    <Text
+                      color="#FFF"
+                      fontSize={16}
+                      fontWeight="normal"
+                      hidden={false}
+                      lineHeight={28}
+                      marginBottom={0}
+                      marginLeft={0}
+                      marginRight={0}
+                      marginTop={0}
+                      numberOfLines={null}
+                      paddingBottom={0}
+                      paddingLeft={0}
+                      paddingRight={0}
+                      paddingTop={0}
+                      style={
+                        Array [
+                          Object {
+                            "color": "#FFF",
+                            "fontFamily": "Poppins-Medium",
+                            "fontSize": 16,
+                            "fontWeight": "normal",
+                            "lineHeight": 28,
+                            "marginBottom": 0,
+                            "marginLeft": 0,
+                            "marginRight": 0,
+                            "marginTop": 0,
+                            "paddingBottom": 0,
+                            "paddingLeft": 0,
+                            "paddingRight": 0,
+                            "paddingTop": 0,
+                            "textAlign": "left",
+                            "textDecorationColor": "black",
+                            "textDecorationLine": "none",
+                            "textDecorationStyle": "solid",
+                            "textTransform": "none",
+                            "width": "auto",
+                          },
+                        ]
+                      }
+                      textAlign="left"
+                      textDecoration="none"
+                      textTransform="none"
+                      width="auto"
+                    >
+                      Details of band
+                    </Text>
+                  </View>
+                </View>
+              </View>
+            </View>
+            <View
+              onLayout={[Function]}
+              style={null}
+            >
+              <View
+                style={
+                  Array [
+                    Object {
+                      "backgroundColor": "#FFF",
+                      "borderRadius": 8,
+                      "elevation": 10,
+                      "shadowColor": "rgba(0, 0, 0, 0.15)",
+                      "shadowOffset": Object {
+                        "height": 1,
+                        "width": 0,
+                      },
+                      "shadowOpacity": 1,
+                      "shadowRadius": 25,
+                    },
+                    Object {
+                      "alignItems": "center",
+                      "justifyContent": "center",
+                      "marginBottom": 16,
+                      "paddingBottom": 10,
+                      "paddingLeft": 10,
+                      "paddingRight": 10,
+                      "paddingTop": 10,
+                    },
+                  ]
+                }
+              >
+                <View
+                  style={
+                    Array [
+                      Object {
+                        "flexDirection": "row",
+                        "justifyContent": "center",
+                      },
+                    ]
+                  }
+                >
+                  <View
+                    style={
+                      Array [
+                        Object {
+                          "flexBasis": 0,
+                          "flexGrow": 1,
+                          "flexShrink": 1,
+                          "justifyContent": "flex-start",
+                        },
+                      ]
+                    }
+                  >
+                    <View
+                      style={
+                        Array [
+                          Object {
+                            "alignItems": "center",
+                            "flexDirection": "row",
+                            "justifyContent": "flex-start",
+                            "marginBottom": 0,
+                            "marginTop": 0,
+                          },
+                        ]
+                      }
+                    >
+                      <View
+                        style={
+                          Array [
+                            Object {
+                              "alignItems": "center",
+                              "flexDirection": "row",
+                              "justifyContent": "flex-start",
+                              "width": "50%",
+                            },
+                          ]
+                        }
+                      >
+                        <Text
+                          numberOfLines={1}
+                          style={
+                            Array [
+                              Object {
+                                "color": "#d13d0f",
+                                "fontFamily": "Poppins",
+                                "fontSize": 16,
+                                "fontStyle": "normal",
+                                "fontWeight": "bold",
+                                "lineHeight": 24,
+                                "width": 170,
+                              },
+                            ]
+                          }
+                          testID="Title"
+                        >
+                          Evanescence
+                        </Text>
+                      </View>
+                    </View>
+                  </View>
+                </View>
+                <View
+                  accessible={true}
+                  collapsable={false}
+                  focusable={true}
+                  nativeID="animatedComponent"
+                  onClick={[Function]}
+                  onResponderGrant={[Function]}
+                  onResponderMove={[Function]}
+                  onResponderRelease={[Function]}
+                  onResponderTerminate={[Function]}
+                  onResponderTerminationRequest={[Function]}
+                  onStartShouldSetResponder={[Function]}
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "backgroundColor": "#8d02c0",
+                      "borderRadius": 10,
+                      "height": 40,
+                      "justifyContent": "center",
+                      "marginTop": 15,
+                      "opacity": 1,
+                      "width": "100%",
+                    }
+                  }
+                >
+                  <View
+                    hidden={false}
+                    style={
+                      Array [
+                        Object {
+                          "backgroundColor": "transparent",
+                          "borderRadius": 0,
+                        },
+                      ]
+                    }
+                  >
+                    <Text
+                      color="#FFF"
+                      fontSize={16}
+                      fontWeight="normal"
+                      hidden={false}
+                      lineHeight={28}
+                      marginBottom={0}
+                      marginLeft={0}
+                      marginRight={0}
+                      marginTop={0}
+                      numberOfLines={null}
+                      paddingBottom={0}
+                      paddingLeft={0}
+                      paddingRight={0}
+                      paddingTop={0}
+                      style={
+                        Array [
+                          Object {
+                            "color": "#FFF",
+                            "fontFamily": "Poppins-Medium",
+                            "fontSize": 16,
+                            "fontWeight": "normal",
+                            "lineHeight": 28,
+                            "marginBottom": 0,
+                            "marginLeft": 0,
+                            "marginRight": 0,
+                            "marginTop": 0,
+                            "paddingBottom": 0,
+                            "paddingLeft": 0,
+                            "paddingRight": 0,
+                            "paddingTop": 0,
+                            "textAlign": "left",
+                            "textDecorationColor": "black",
+                            "textDecorationLine": "none",
+                            "textDecorationStyle": "solid",
+                            "textTransform": "none",
+                            "width": "auto",
+                          },
+                        ]
+                      }
+                      textAlign="left"
+                      textDecoration="none"
+                      textTransform="none"
+                      width="auto"
+                    >
+                      Details of band
+                    </Text>
+                  </View>
+                </View>
+              </View>
+            </View>
+            <View
+              onLayout={[Function]}
+              style={null}
+            >
+              <View
+                style={
+                  Array [
+                    Object {
+                      "backgroundColor": "#FFF",
+                      "borderRadius": 8,
+                      "elevation": 10,
+                      "shadowColor": "rgba(0, 0, 0, 0.15)",
+                      "shadowOffset": Object {
+                        "height": 1,
+                        "width": 0,
+                      },
+                      "shadowOpacity": 1,
+                      "shadowRadius": 25,
+                    },
+                    Object {
+                      "alignItems": "center",
+                      "justifyContent": "center",
+                      "marginBottom": 16,
+                      "paddingBottom": 10,
+                      "paddingLeft": 10,
+                      "paddingRight": 10,
+                      "paddingTop": 10,
+                    },
+                  ]
+                }
+              >
+                <View
+                  style={
+                    Array [
+                      Object {
+                        "flexDirection": "row",
+                        "justifyContent": "center",
+                      },
+                    ]
+                  }
+                >
+                  <View
+                    style={
+                      Array [
+                        Object {
+                          "flexBasis": 0,
+                          "flexGrow": 1,
+                          "flexShrink": 1,
+                          "justifyContent": "flex-start",
+                        },
+                      ]
+                    }
+                  >
+                    <View
+                      style={
+                        Array [
+                          Object {
+                            "alignItems": "center",
+                            "flexDirection": "row",
+                            "justifyContent": "flex-start",
+                            "marginBottom": 0,
+                            "marginTop": 0,
+                          },
+                        ]
+                      }
+                    >
+                      <View
+                        style={
+                          Array [
+                            Object {
+                              "alignItems": "center",
+                              "flexDirection": "row",
+                              "justifyContent": "flex-start",
+                              "width": "50%",
+                            },
+                          ]
+                        }
+                      >
+                        <Text
+                          numberOfLines={1}
+                          style={
+                            Array [
+                              Object {
+                                "color": "#d13d0f",
+                                "fontFamily": "Poppins",
+                                "fontSize": 16,
+                                "fontStyle": "normal",
+                                "fontWeight": "bold",
+                                "lineHeight": 24,
+                                "width": 170,
+                              },
+                            ]
+                          }
+                          testID="Title"
+                        >
+                          Goo Goo Dolls
+                        </Text>
+                      </View>
+                    </View>
+                  </View>
+                </View>
+                <View
+                  accessible={true}
+                  collapsable={false}
+                  focusable={true}
+                  nativeID="animatedComponent"
+                  onClick={[Function]}
+                  onResponderGrant={[Function]}
+                  onResponderMove={[Function]}
+                  onResponderRelease={[Function]}
+                  onResponderTerminate={[Function]}
+                  onResponderTerminationRequest={[Function]}
+                  onStartShouldSetResponder={[Function]}
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "backgroundColor": "#8d02c0",
+                      "borderRadius": 10,
+                      "height": 40,
+                      "justifyContent": "center",
+                      "marginTop": 15,
+                      "opacity": 1,
+                      "width": "100%",
+                    }
+                  }
+                >
+                  <View
+                    hidden={false}
+                    style={
+                      Array [
+                        Object {
+                          "backgroundColor": "transparent",
+                          "borderRadius": 0,
+                        },
+                      ]
+                    }
+                  >
+                    <Text
+                      color="#FFF"
+                      fontSize={16}
+                      fontWeight="normal"
+                      hidden={false}
+                      lineHeight={28}
+                      marginBottom={0}
+                      marginLeft={0}
+                      marginRight={0}
+                      marginTop={0}
+                      numberOfLines={null}
+                      paddingBottom={0}
+                      paddingLeft={0}
+                      paddingRight={0}
+                      paddingTop={0}
+                      style={
+                        Array [
+                          Object {
+                            "color": "#FFF",
+                            "fontFamily": "Poppins-Medium",
+                            "fontSize": 16,
+                            "fontWeight": "normal",
+                            "lineHeight": 28,
+                            "marginBottom": 0,
+                            "marginLeft": 0,
+                            "marginRight": 0,
+                            "marginTop": 0,
+                            "paddingBottom": 0,
+                            "paddingLeft": 0,
+                            "paddingRight": 0,
+                            "paddingTop": 0,
+                            "textAlign": "left",
+                            "textDecorationColor": "black",
+                            "textDecorationLine": "none",
+                            "textDecorationStyle": "solid",
+                            "textTransform": "none",
+                            "width": "auto",
+                          },
+                        ]
+                      }
+                      textAlign="left"
+                      textDecoration="none"
+                      textTransform="none"
+                      width="auto"
+                    >
+                      Details of band
+                    </Text>
+                  </View>
+                </View>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "height": 0,
+                }
+              }
+            />
+          </View>
+        </RCTScrollView>
+      </View>
+    </View>
+  </View>
+</RCTScrollView>
+`;
